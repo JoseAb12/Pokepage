@@ -2,5 +2,8 @@
   "dependencies": {
     "@formkit/auto-animate": "^0.8.2",
     "pokemontcgsdk": "^2.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.16"
   }
 }
